@@ -1,10 +1,24 @@
-## Crypto currency price tracking app
+# 📊 Coin Gecko Crypto Tracker
 
-<!-- list down feature of the app -->
+A React-based web app that tracks real-time cryptocurrency data using the CoinGecko API.
 
-- Reusable components made using presenter container pattern 
-- Custom Hooks implemented
-- State management done by React Query
-- Consuming CoinGecko Free API
-- API requests are cached using React query
-- Suspense and error boundaries implemented
+## 🚀 Features
+
+- List of top cryptocurrencies
+- Real-time price updates
+- Market cap and rank
+- 24-hour price change indicator
+
+
+## 🔧 Tech Stack
+
+- React.js
+- Axios
+- React Router DOM
+- CoinGecko API
+
+## 📦 How to Run
+
+```bash
+npm install
+npm run dev
